@@ -1,0 +1,19 @@
+.center {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+}
+.logout{
+    margin: 5px 50px 5px 700px;
+}
+
+.title{
+    margin: 0px 60px 5px 10px;
+}
+
+
+.logo{
+    height: 120px;
+	width:400px;
+}
